@@ -4,6 +4,7 @@ def is_valid_digits(input_string):
     pattern = r'^\d+$'
     return bool(re.match(pattern, input_string))
 print("End add commit")
+print("end")
 
 # Примеры использования:
 print(is_valid_digits("1928346"))    # True
