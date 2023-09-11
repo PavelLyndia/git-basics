@@ -9,6 +9,10 @@ print("end")
 
 def fan():
     return
+print("Hello")
+
+
+
 # Примеры использования:
 print(is_valid_digits("1928346"))    # True
 print(is_valid_digits("123Д02349"))  # False
