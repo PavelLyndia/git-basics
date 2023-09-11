@@ -5,12 +5,10 @@ def is_valid_digits(input_string):
     return bool(re.match(pattern, input_string))
 print("End add commit")
 print("end")
-
+print("#####")
 print("HELLO")
 
 print("Python")
-
-
 
 
 # Примеры использования:
